@@ -7,7 +7,7 @@ File format: Concentration(uM) vs. Sw20
 
 Mw: It is the molecular weight (kDa)
 
-models: In this option will choose the Hydrodinamic model for protein polymers
+Models: In this option will choose the Hydrodinamic model for protein polymers
          
      if type 1 the hydrodinamic model will be N^2/3
      if type 2 the hydrodinamic model will be linear (spheres)
